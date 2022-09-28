@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lester.wee.68@gmail.com
+	name = Lester Wee
